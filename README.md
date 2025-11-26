@@ -4,7 +4,7 @@
 
 ## Cài đặt
 
-1. Tải file `vi.zip` việt hóa tại đây
+1. Tải file `vi.zip` việt hóa [tại đây](https://github.com/DichGameChoi/wwm-vn/releases) hoặc vào thẳng Releases page
 2. Giải nén file được nội dung như sau
 
 <img width="262" height="153" alt="img-1" src="https://github.com/user-attachments/assets/004a408a-abfa-4b9d-b2f4-ed0765cac8d1" />
