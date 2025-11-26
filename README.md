@@ -13,6 +13,11 @@
    
 Lưu ý nên để game check resource xong thì đè file.
 
+## Lưu ý
+
+- Để Game cần cài đặt sử dụng English.
+- Tác giả của bản dịch này không chịu bất kỳ trách nhiệm nào liên quan đến tài khoản của bạn.
+
 ## Cách tìm thư mục locale
 
 - Mục tiêu cần tìm thư mục tên `oversea` -> `locale` hoặc `locale` để đè file.
