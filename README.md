@@ -10,12 +10,14 @@
 <img width="262" height="153" alt="img-1" src="https://github.com/user-attachments/assets/004a408a-abfa-4b9d-b2f4-ed0765cac8d1" />
 
 3. Đè 2 file này vào thư mục `locale` của game.
+   
 Lưu ý nên để game check resource xong thì đè file.
 
 ## Cách tìm thư mục locale
 
-Mục tiêu cần tìm thư mục tên `oversea` -> `locale` hoặc `locale` để đè file.
-Có thể mở thư mục cài Game tìm thư mục: `Package` -> `HD` hoặc `LocalData` -> `Patch` -> `HD`
+- Mục tiêu cần tìm thư mục tên `oversea` -> `locale` hoặc `locale` để đè file.
+
+- Có thể mở thư mục cài Game tìm thư mục: `Package` -> `HD` hoặc `LocalData` -> `Patch` -> `HD`
 
 ## Copyright
 
